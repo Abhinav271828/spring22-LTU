@@ -1,5 +1,5 @@
 ---
-title: Computational Linguistics 2 (CL3.202)
+title: Language Typology and Universals (CL1.204)
 subtitle: |
           | Monsoon 2021, IIIT Hyderabad
           | 03 Jan, Monday (Lecture 1)
