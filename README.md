@@ -10,3 +10,5 @@ Notes and resources for the Language Typology and Universals course at IIIT Hyde
 * Week 2
     - Lecture 3 (10 Jan, Monday)
         - Introduction
+    - Lecture 4 (13 Jan, Thursday)
+        - Writing Systems
