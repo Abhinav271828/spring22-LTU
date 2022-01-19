@@ -7,10 +7,11 @@ author: Abhinav S Menon (2020114001)
 ---
 
 # Part 1
-The languages that will be considered are Kodava (Dravidian), Tulu (Dravidian), Nepali (Indo-Aryan), Marwari (Indo-Aryan), and Manipuri (Sino-Tibetan). The sources are as follows:  
+The languages that will be considered are Kodava (Dravidian), Telugu (Dravidian), Tulu (Dravidian), Nepali (Indo-Aryan), Marwari (Indo-Aryan), and Manipuri (Sino-Tibetan). The sources are as follows:  
 
 * Kodava: native speaker; friend (Ananya Sane)'s mother's colleague
-* Tulu: bilingual speaker; friend (Tejah S S)
+* Telugu: native speaker; friend (Vamshi Krishna)
+* Tulu: bilingual and native speakers; friends (Tejah S S and Sankalp Bhat respectively) for audio and [**app**](https://m.apkpure.com/british-english-tulu-dictionary/com.pronunciatorllc.bluebirddictionary.britishenglish.tulu) for spellings
 * Nepali: native speaker; friend (Pratyaksh Gautam)
 * Marwari: native speaker; friend (Jatin Agarwala)'s mother
 * Manipuri (Meitei): [**paper**](https://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/17_iwn_Manipuri%20Kinship%20Terms.pdf) for kinship terms; [**app**](https://play.google.com/store/apps/details?id=antsearth.com.englishtomanipuridictionary&hl=en_IN&gl=US) for others
@@ -21,7 +22,7 @@ My source for Kodava was only able to provide the script in (unofficial) Roman t
 The vocabulary lists are as follows. 
 
 ## Kinship Terms
-As the exact family relations in the various languages differ considerably, we will simply list them out here, rather than making a table.
+As the exact family relations in the various languages differ considerably, I will simply list them out here, rather than making a table.
 
 **Kodava**  
 (transcription: WX)  
@@ -39,6 +40,25 @@ As the exact family relations in the various languages differ considerably, we w
 `kuMjavva` – father's younger brother's wife  
 `mAyi` – mother's sister  
 `mAma` – mother's sister's husband  
+
+**Tulu**  
+(transcription: WX)  
+`meVgyeV` – younger brother  
+`meVgwi` – younger sister  
+`aNNe` – elder brother  
+`akka` – elder sister  
+`‌ammeV` – father  
+`appeV`– mother  
+`ajjeV` – grandfather  
+`ajji` – grandmother  
+`mageV` – son  
+‌`magal` – daughter  
+`xoVddappa` – mother's elder sister / father's elder brother's wife  
+`xoVddamma` – father's elder brother / mother's elder sister's husband  
+`eVlyappa`/`cikkappa` – father's older brother / mother's elder sister's husband  
+`eVlyamma`/`cikkamma` – father's younger brother / mother's younger sister's husband  
+`mami` – father's younger sister  
+`mama` – mother's elder brother  
 
 **Telugu**  
 (transcription: WX)  
@@ -123,57 +143,88 @@ Note: the following terms must be prefixed with *i-* for "my", *nə-* for "your"
 `-bok` – grandmother  
 `-pubok` – grandfather  
 
+
 ## Colour Terms
-| English | Kodava (R) | Telugu (WX)  | Nepali (WX) | Marwari (WX) | Manipuri |
-| :---:   | :---:    | :---:          | :---:       | :---:   | :---: |
-| red     | `cOvMxax` | `eVrupu`       | `rAwo`        | `lAla`    | `afAfba` |
-| black   | `karwax` | `nalupu`       | `kAlo`        | `kAlo`    | `amuba`
-| white   | `boVlxax` | `weVlupu`      | `sewo`        | `saPZexa`   | `afOba`
-| yellow  | `maMjeV`    | `pasupu pacca` | `pahilo`      | `pIlo`    | `hãgAm mapAl`
-| blue    | `nIli`    | `nIlaM`        | `nIlo`        | `nIlo`    | `higok macugi`
-| green   | `pacceV`    | `Aku pacca`    | `haryo`       | `haro`    | `asãba macu`
+| English | Kodava    | Telugu         | Tulu     | Nepali   | Marwari   | Manipuri       |
+| :---:   | :---:     | :---:          | :---:    | :---:    | :---:     | :---:          |
+| red     | `cOvMxax` | `eVrupu`       | `keVMpu` | `rAwo`   | `lAla`    | `afAfba`       |
+| black   | `karwax`  | `nalupu`       | `kappu`  | `kAlo`   | `kAlo`    | `amuba`        |
+| white   | `boVlxax` | `weVlupu`      | `boVlxu` | `sewo`   | `saPZexa` | `afOba`        |
+| yellow  | `maMjeV`  | `pasupu pacca` | `maMjal` | `pahilo` | `pIlo`    | `hãgAm mapAl`  |
+| blue    | `nIli`    | `nIlaM`        | `nIli`   | `nIlo`   | `nIlo`    | `higok macugi` |
+| green   | `pacceV`  | `Aku pacca`    | `pacceV` | `haryo`  | `haro`    | `asãba macu`   |
 
 ## Body Parts
-| English | Kodava (R) | Telugu (WX) | Nepali (WX) | Marwari (WX) | Manipuri |
-| :---:   | :---:     | :---:    | :---:   | :---:   | :---: |
-| eyes    | `kaNN`      | `kaNNu`    | `ÃKÃ` | `ÃKyA` | `mit` |
-| nose    | `mUkk`      | `mUkku`    | `nAka` | `nAka`    | `nAton` |
-| ears    | `keVmi`      | `ceVvi`     | `kAna` | `kAna`    | `nAkof` |
-| mouth   | `bAyi`     | `nUru`    | `mUka` | `muha`     | `cin` |
-| face    | `mUd`      |          | `mUka` | `muNdo`   | `mAi` |
-| neck    | `woMxeV`    | `mexa`     | `GAti` | `garxana`  | `faksam` |
-| arms    | `kE`       | `ceVyyi`   | `hAWa` | `hAWa`   | `pAmbom` |
-| elbows  | `mUleV kE` | `mUceVyyi` | `kuina` | `koNi       | `Kutnif` |
-| stomach | `poVtteV`     | `kadupu`   | `Budi` | `peta`     | `cakAu` |
-| legs    | `kAl`      | `kAlu`     | `KuttA` | `pEra`     | `Kof` |
-| knees   | `maMdi`     | `mUkAlu`   | `GodA` | `Gutano`  | `Kuu` |
+| English | Kodava     | Telugu     | Tulu        | Nepali  | Marwari   | Manipuri |
+| :---:   | :---:      | :---:      | :---:       | :---:   | :---:     | :---:    |
+| eyes    | `kaNN`     | `kaNNu`    | `kaNN`      |`ÃKÃ`    | `ÃKyA`    | `mit`    |
+| nose    | `mUkk`     | `mUkku`    | `muMku`     | `nAka`  | `nAka`    | `nAton`  |
+| ears    | `keVmi`    | `ceVvi`    | `kibi`      | `kAna`  | `kAna`    | `nAkof`  |
+| mouth   | `bAyi`     | `nOru`     | `bAyi`      | `mUka`  | `muha`    | `cin`    |
+| face    | `mUd`      | `muKaM`    | `moneV`     | `mUka`  | `muNdo`   | `mAi`    |
+| neck    | `woMxeV`   | `mexa`     | `kuwwigeV`  | `GAti`  | `garxana` | `faksam` |
+| arms    | `kE`       | `ceVyyi`   | `kE`        | `hAWa`  | `hAWa`    | `pAmbom` |
+| elbows  | `mUleV kE` | `mUceVyyi` | `moVraMgE`  | `kuina` | `koNi`    | `Kutnif` |
+| stomach | `poVtteV`  | `kadupu`   | `baMji`     | `Budi`  | `peta`    | `cakAu`  |
+| legs    | `kAl`      | `kAlu`     | `kAr`       | `KuttA` | `pEra`    | `Kof`    |
+| knees   | `maMdi`    | `mUkAlu`   | `moVraMgAl` | `GodA`  | `Gutano`  | `Kuu`    |
 
 ## Numbers
-| English | Kodava (R) | Telugu (WX)  | Nepali (WX) | Marwari (WX) | Manipuri |
-| :---:   | :---:   | :---:    | :---:   | :---:   | :---: |
-| one     | `oVMx`     | `oVkkati`  | `eka` | `eka`     | `ama` |
-| two     | `xaMd`    | `reVMdu`   | `xui` | `xo`      | `ani` |
-| three   | `mUNd`   | `mUdu`     | `wIna` | `xIna`    | `ahum` |
-| four    | `nAl`    | `nAlugu`   | `cAra` | `cAra`    | `mari` |
-| five    | `aMji`    | `Exu`      | `pÃca` | `pÃca`    | `mafA` |
-| six     | `Ar`     | `Aru`      | `CO` | `Caha`    | `taruk` |
-| seven   | `elY`     | `edu`      | `sAwa` | `sAwa`    | `taret` |
-| eight   | `eVtt`    | `eVnimixi` | `ATa` | `ATa`     | `nipAl` |
-| nine    | `oVyiMbax` | `wommixi`  | `nO` | `nO`      | `mApal` |
-| ten     | `paww`    | `paxi`     | `xasa` | `xasa`    | `tarA` |
+| English | Kodava     | Telugu     | Tulu     | Nepali | Marwari   | Manipuri |
+| :---:   | :---:      | :---:      | :---:    | :---:  | :---:     | :---:    |
+| one     | `oVMx`     | `oVkkati`  | `oVMji`  | `eka`  | `eka`     | `ama`    |
+| two     | `xaMd`     | `reVMdu`   | `eVrad`  | `xui`  | `xo`      | `ani`    |
+| three   | `mUNd`     | `mUdu`     | `mUji`   | `wIna` | `xIna`    | `ahum`   |
+| four    | `nAl`      | `nAlugu`   | `nAl`    | `cAra` | `cAra`    | `mari`   |
+| five    | `aMji`     | `Exu`      | `En`     | `pÃca` | `pÃca`    | `mafA`   |
+| six     | `Ar`       | `Aru`      | `Aji`    | `CO`   | `Caha`    | `taruk`  |
+| seven   | `elY`      | `edu`      | `el`     | `sAwa` | `sAwa`    | `taret`  |
+| eight   | `eVtt`     | `eVnimixi` | `eVNma`  | `ATa`  | `ATa`     | `nipAl`  |
+| nine    | `oVyiMbax` | `wommixi`  | `oVrMba` | `nO`   | `nO`      | `mApal`  |
+| ten     | `paww`     | `paxi`     | `paww`   | `xasa` | `xasa`    | `tarA`   |
 
 ## Domestic Animals
-| English | Kodava (R) | Telugu (WX)  | Nepali (WX) | Marwari (WX) | Manipuri |
-| :---:   | :---:   | :---:    | :---:   | :---:    | :---: | :---: |
-| cow     | `pEyu`   | `Avu`      | `gAya` | `gAya`     | `sanbi` |
-| dog     | `nAyi`   | `kukka`    | `kukkura` | `kuwwa`    | `hui` |
-| cat     | `pUFFeV`  | `pilli`    | `bIrAlu` | `billI`    | `hOdof` |
-| horse   | `kuxre`   | `gurraM`   | `GodA` | `GodA`     | `sagol` |
-| chicken | `kolYi`    | `kOdi`     | `kuKrA` | `murgA`    | `yenAu` |
-| fish    | `mIn`    | `cepa`     | `mACA` | `maCalI`   | `fA` |
-| goat    | `Ad`     | `meka`     | `bAKrA` | `bakarA`   | `hAmef` |
-| sheep   | `koVri`    | `goVrreV`  | `KAsi` | `Beda`     | `yAu` |
-| pig     | `panxi`   | `panxi`    | `suMgura` | `suara`    | `ok` |
-| rabbit  | `mola`    | `kunxelu`  | `KArAyo` | `KaragoSa` | `Teba` |
+| English | Kodava   | Telugu     | Tulu      | Nepali    | Marwari    | Manipuri |
+| :---:   | :---:    | :---:      | :---:     | :---:     | :---:      | :---:    |
+| cow     | `pEyu`   | `Avu`      | `peVwwa`  | `gAya`    | `gAya`     | `sanbi`  |
+| dog     | `nAyi`   | `kukka`    | `nAyi`    | `kukkura` | `kuwwa`    | `hui`    |
+| cat     | `pUFFeV` | `pilli`    | `pucCeV`  | `bIrAlu`  | `billI`    | `hOdof`  |
+| horse   | `kuxre`  | `gurraM`   | `kuxureV` | `GodA`    | `GodA`     | `sagol`  |
+| chicken | `kolYi`  | `kOdi`     | `kori`    | `kuKrA`   | `murgA`    | `yenAu`  |
+| fish    | `mIn`    | `cepa`     | `mIn`     | `mACA`    | `maCalI`   | `fA`     |
+| goat    | `Ad`     | `meka`     | `ed`      | `bAKrA`   | `bakarA`   | `hAmef`  |
+| sheep   | `koVri`  | `goVrreV`  | `kuri`    | `KAsi`    | `Beda`     | `yAu`    |
+| pig     | `panxi`  | `panxi`    | `paMji`   | `suMgura` | `suara`    | `ok`     |
+| rabbit  | `mola`   | `kunxelu`  | `mugeVr`  | `KArAyo`  | `KaragoSa` | `Teba`   |
 
 # Part 2
+It is immediately clear that languages in the same family have extremely similar words for most of the terms considered. An exception to this is the terms for younger siblings and grandparents in Dravidian languages.  
+
+## Along Language Families
+### Dravidian
+A common pattern across the terms for uncles and aunts across Dravidian languages is that they are often the words "big" or "small" compounded with the word "father" or "mother". The exact meanings sometimes vary.  
+It also appears that Telugu is the odd one out among the three Dravidian languages (it has unrelated words for "black", "white", "yellow", "mouth", "nine", "cow", "dog", "fish", "goat" and "rabbit"). This might mean that Telugu diverged from the common-origin ancestor of these three languages *before* the other two. Such differences can also be noted when Telugu is compared to other Dravidian languages, like Kannada, Tamil and Malayalam; for example, "want" (`cAhie` in Hindi) is formed with the root `ve-` in Malayalam and Tamil, `be-` in Kannada (the `v`/`b` correlation is observed between Malayalam/Tamil and Kannada in several words), but is `kAvAli` in Telugu.  
+However, it is also possible that the difference arose only due to geographical separation, when in reality Tulu or Kodava might have diverged before Telugu. Both of these languages are spoken relatively near each other (the districts of Coorg/Kodagu and Mangalore are roughly 150 km apart, and 400-500 km from the Andhra state border).  
+
+### Indo-Aryan
+In general, Nepali and Marwari appear to have roughly the same degree of similarity as Kodava and Tulu. Some terms have unrelated words in both languages – for example, the word for "white" is a loanword in Marwari but a Sanskrit-origin word (presumably) in Nepali. Nearly every category has at least one or two differences.  
+It could be that Nepali and Marwari belong to different subfamilies under Indo-Aryan, *i.e.*, their immediate parent languages are distinct.  
+As with the Dravidian family, however, it is possible that the differences arose only due to geographical separation (Siliguri, Pratyaksh's hometown, is 1600 km away from Badopal, Jatin's hometown).
+
+## Along Categories
+The following table shows the number of terms for which the languages in a certain family have unrelated words:  
+
+| Family                     | Colours | Body Parts | Numbers | Animals |
+| :---:                      | :---:   | :---:      | :---:   | :---:   |
+| Dravidian (all different)  | 0       | 2          | 0       | 0       |
+| Dravidian (not all same)   | 4       | 3          | 1       | 5       |
+| Indo-Aryan                 | 2       | 3          | 0       | 3       |
+
+Note: I estimated the above numbers based on the superficial similarity of the words.  
+
+One immediate fact that this reveals is that numbers very rarely change across related languages. All other categories have an average of at least 3 differing terms in each category, while numbers have only one difference in Dravidian languages and none in Indo-Aryan languages.  
+Interestingly, the word for "nine" in Telugu and Kodava is derived from the words "one" and "ten", while Telugu it has a different root (which also forms the root for the word for "ninety" in Malayalam and Kannada)[^1].  
+
+Possibly, numbers show less variance across languages because they are frequently used, and so the words to express them rarely change even across long periods of time.
+
+[^1]: Krishnamurti, Bhadriraju. *The dravidian languages.* Cambridge University Press, 2003. Pages 264-5.
