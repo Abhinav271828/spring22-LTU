@@ -15,3 +15,4 @@ Notes and resources for the Language Typology and Universals course at IIIT Hyde
 * Week 3
     - Lecture 5 (17 Jan, Monday)
         - Similarities
+    - Lecture 6 (20 Jan, Thursday)
